@@ -13,6 +13,6 @@ Let's connect and create something amazing together! 🚀
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL
 - **Frontend:** React, Next.js, Redux, Tailwind CSS, Shadcn, Material UI, Ant Design
 - **Backend:** Node.js
-- **Databases:** MongoDB, Prisma ORM
+- **Databases:** MongoDB, Prisma ORM, Drizzle ORM
 - **Tools & Platforms:** Git, GitHub, Vercel, Webpack
 - **Other:** RESTful APIs, Responsive Design
