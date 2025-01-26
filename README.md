@@ -18,4 +18,9 @@ Let's connect and create something amazing together! 🚀
 - **Other:** RESTful APIs, Responsive Design
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
