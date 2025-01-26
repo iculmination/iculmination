@@ -16,3 +16,6 @@ Let's connect and create something amazing together! 🚀
 - **Databases:** MongoDB, Prisma ORM, Drizzle ORM
 - **Tools & Platforms:** Git, GitHub, Vercel, Webpack
 - **Other:** RESTful APIs, Responsive Design
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
