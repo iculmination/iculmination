@@ -20,11 +20,11 @@ Let's connect and create something amazing together! 🚀
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 21 mins   ███████████████████████▓░   94.55 %
-Prisma       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   6 hrs 50 mins   ████████████████████████░   96.05 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Prisma       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
