@@ -10,12 +10,12 @@ Let's connect and create something amazing together! 🚀
 
 ### 🛠️ **My Skills**
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, SQL
+- **Languages:** JavaScript, Python, TypeScript, HTML5, CSS3, SQL
 - **Frontend:** React, Next.js, Redux, Tailwind CSS, Shadcn, Material UI, Ant Design
-- **Backend:** Node.js
-- **Databases:** MongoDB, Prisma ORM, Drizzle ORM
-- **Tools & Platforms:** Git, GitHub, Vercel, Webpack
-- **Other:** RESTful APIs, Responsive Design
+- **Backend:** Node.js, FastAPI
+- **Databases:** MongoDB, Prisma ORM, Drizzle ORM, PostgreSQL, SQLAlchemy
+- **Tools & Platforms:** Git, GitHub, Vercel, Webpack, AWS
+- **Other:** RESTful APIs, Responsive Design, Google Apps Script
 
  <!--START_SECTION:waka-->
 
