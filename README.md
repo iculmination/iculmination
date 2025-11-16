@@ -18,10 +18,9 @@ Let's connect and create something amazing together! 🚀
  <!--START_SECTION:waka-->
 
 ```txt
-Python       10 hrs 14 mins  ███████████████▒░░░░░░░░░   61.39 %
-TypeScript   6 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   38.28 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       8 hrs 53 mins   ████████████████▓░░░░░░░░   66.32 %
+TypeScript   4 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.66 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
