@@ -18,11 +18,11 @@ Let's connect and create something amazing together! 🚀
  <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 37 mins   ███████████░░░░░░░░░░░░░░   44.58 %
-Bash         3 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-TypeScript   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Docker       1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Markdown     53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Python       3 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.03 %
+YAML         2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Bash         1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+TypeScript   1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Docker       1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
 ```
 
 <!--END_SECTION:waka-->
