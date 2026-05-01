@@ -18,8 +18,8 @@ Let's connect and create something amazing together! 🚀
  <!--START_SECTION:waka-->
 
 ```txt
-Python       12 hrs 11 mins        ██████████████▓░░░░░░░░░░   59.11 %
-TypeScript   8 hrs 25 mins         ██████████▒░░░░░░░░░░░░░░   40.86 %
+TypeScript   12 hrs 26 mins        ██████████████▒░░░░░░░░░░   57.59 %
+Python       9 hrs 9 mins          ██████████▓░░░░░░░░░░░░░░   42.37 %
 Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
